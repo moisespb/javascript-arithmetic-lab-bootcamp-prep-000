@@ -3,5 +3,5 @@ function makeInt (){
 }
 
 function preserveDecimal(Number) (){
-  preserveDecimal('2.2222')
+  preserveDecimal(2.222222)
 }
