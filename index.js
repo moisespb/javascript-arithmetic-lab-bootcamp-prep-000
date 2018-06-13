@@ -2,6 +2,6 @@ function makeInt (){
   parseInt('2.2222')
 }
 
-function makeInt (){
+function preserveDecimal(Number) (){
   parseInt('2.2222')
 }
